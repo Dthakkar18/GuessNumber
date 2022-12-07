@@ -1,8 +1,7 @@
 
 import random
 
-print("\nI am thinking of a number 1 and 10")
-print("Take a guess")
+print("\nI am going to pick a number...")
 low = int(input("What is the lower bound: "))
 high = int(input("What is the upper bound: "))
 
